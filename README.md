@@ -1,5 +1,7 @@
 # Computational-Analysis-of-Dnmt3L-Structural-Dynamics-and-Mutational-Effects
-Computational investigation of Dnmt3L structural dynamics and mutation-induced effects using molecular modeling and MD simulations.
+This repository presents a computational investigation of Dnmt3L structural dynamics and mutation-induced effects using molecular modeling and molecular dynamics (MD) simulations.
+
+The study focuses on investigating the structural stability, conformational flexibility, and mechanical properties of acetylated and non-acetylated Dnmt3L variants. In addition, we examine the binding mechanics of the Dnmt3L–Dnmt3A complex through steered molecular dynamics (SMD) simulations to evaluate the effects of specific mutations on protein dynamics and intermolecular interactions.
 
 ## Results
 
