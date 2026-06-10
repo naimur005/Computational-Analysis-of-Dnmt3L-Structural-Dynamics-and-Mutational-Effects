@@ -31,12 +31,14 @@ Flexibility:
 ​Binding Affinity: ​
 > No significant changes were observed in the binding affinities across all variants, indicating consistent binding strength despite mutations.​
 ## Citation
-If you use any data, methods, or results from this repository, please cite:
+If you use any data, methods, or results from this project, please cite:
 
 > Rahman, N., Nam, Y. J., Kwon, H., Im, H. J., Lubna, H., Lee, S., et al. (2026).
 > *Uncovering the acetylation sites of Dnmt3L that regulate protein stability and differentiation potency in embryonic stem cells.*
 > **Experimental & Molecular Medicine**, 58, 709–724.
 >
-> DOI: https://doi.org/10.1038/s12276-026-01655-w
+> DOI: [10.1038/s12276-026-01655-w](https://doi.org/10.1038/s12276-026-01655-w)
 
 
+## 📧 Contact
+> Md Naimur Rahman - naimur005@gmail.com
